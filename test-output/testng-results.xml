@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-23T17:33:00 IST" name="Suite" finished-at="2026-11-23T17:33:28 IST" duration-ms="27640">
+    <groups>
+      <group name="smoke">
+        <method signature="tc001_CreateLead.test()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@489115ef]" name="test" class="com.espo.crm.smoke.tc001_CreateLead"/>
+        <method signature="tc001_CreateLead.test()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@7530ad9c]" name="test" class="com.espo.crm.smoke.tc001_CreateLead"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-11-23T17:33:00 IST" name="TestRunner-Edge" finished-at="2026-11-23T17:33:23 IST" duration-ms="22519">
+      <class name="com.espo.crm.smoke.tc001_CreateLead">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@7530ad9c]" started-at="2026-11-23T17:33:00 IST" name="configBS" finished-at="2026-11-23T17:33:00 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC(java.lang.String)[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@7530ad9c]" started-at="2026-11-23T17:33:00 IST" name="configBC" finished-at="2026-11-23T17:33:02 IST" duration-ms="2005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@7530ad9c]" started-at="2026-11-23T17:33:02 IST" name="configBM" finished-at="2026-11-23T17:33:10 IST" duration-ms="8006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="test()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@7530ad9c]" started-at="2026-11-23T17:33:10 IST" name="test" finished-at="2026-11-23T17:33:22 IST" duration-ms="11377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@7530ad9c]" started-at="2026-11-23T17:33:22 IST" name="configAM" finished-at="2026-11-23T17:33:22 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@7530ad9c]" started-at="2026-11-23T17:33:22 IST" name="configAC" finished-at="2026-11-23T17:33:23 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@7530ad9c]" started-at="2026-11-23T17:33:28 IST" name="configAS" finished-at="2026-11-23T17:33:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.espo.crm.smoke.tc001_CreateLead -->
+    </test> <!-- TestRunner-Edge -->
+    <test started-at="2026-11-23T17:33:00 IST" name="TestRunner-Chrome" finished-at="2026-11-23T17:33:28 IST" duration-ms="27640">
+      <class name="com.espo.crm.smoke.tc001_CreateLead">
+        <test-method is-config="true" signature="configBC(java.lang.String)[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@489115ef]" started-at="2026-11-23T17:33:00 IST" name="configBC" finished-at="2026-11-23T17:33:02 IST" duration-ms="2005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@489115ef]" started-at="2026-11-23T17:33:02 IST" name="configBM" finished-at="2026-11-23T17:33:14 IST" duration-ms="11496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="test()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@489115ef]" started-at="2026-11-23T17:33:14 IST" name="test" finished-at="2026-11-23T17:33:27 IST" duration-ms="13499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@489115ef]" started-at="2026-11-23T17:33:27 IST" name="configAM" finished-at="2026-11-23T17:33:28 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.espo.crm.smoke.tc001_CreateLead@489115ef]" started-at="2026-11-23T17:33:28 IST" name="configAC" finished-at="2026-11-23T17:33:28 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.espo.crm.smoke.tc001_CreateLead -->
+    </test> <!-- TestRunner-Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

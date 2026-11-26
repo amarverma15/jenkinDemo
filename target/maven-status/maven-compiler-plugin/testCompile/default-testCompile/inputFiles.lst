@@ -1,0 +1,12 @@
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\basetest\BaseClass.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\integration\tc001_Contact_Opportunity.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\integration\tc002_Contact_Cases.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\integration\tc003_Lead_Convert_To_All.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\smoke\dropdown.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\smoke\ReadRuntimeMavenParameter.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\smoke\tc001_ApplicationAccess.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\smoke\tc001_CreateLead.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\smoke\tc002_CreateContact.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\smoke\tc003_CreateOpportunities.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\smoke\tc004_CreateAccount.java
+C:\Users\ammie\eclipse-workspace\espoCRM\src\test\java\com\espo\crm\smoke\tc005_CreateCases.java

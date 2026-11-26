@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.espo.crm.smoke.tc001_CreateLead
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.97 s -- in com.espo.crm.smoke.tc001_CreateLead
